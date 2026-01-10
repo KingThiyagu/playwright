@@ -1,4 +1,3 @@
 //fileA new file created
-console.log('This is file A test file.');
-//line 356
-//line 3
+console.log('This is file A test file.')
+//1234567
